@@ -1,7 +1,7 @@
-## The functions in this file are used 
-## functions do
+## The functions in this file are used to calculate and cache the inverse
+## of a matrix.
 
-## The makeCacheMatrix funcion is used to create a cached inverse matrix.
+## The makeCacheMatrix function is used to create a cached inverse matrix.
 ## This function returns a special vector that provides functions for getting
 ## and setting the inverse matrix.
 
